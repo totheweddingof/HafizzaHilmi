@@ -928,6 +928,13 @@ section {
     text-transform: uppercase;
 }
 
+.toggle-menu h5 {
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    color: white;
+}
+
 .toggle-menu .calendar,
 .toggle-menu .location,
 .toggle-menu .music,
@@ -1265,3 +1272,4 @@ section {
 /*============================================================================================
     # Image Carousel
 ============================================================================================*/
+
